@@ -25,6 +25,6 @@ Também gosto de explorar conceitos de **automação, APIs, bancos de dados e ve
 Desenvolvedor em evolução...  
 
 > focus --today
-🚀 JavaScript | Node.js | React | Web Development  
+ JavaScript | Node.js | React | Web Development  
 
 > echo "Explorando automação, APIs, bancos de dados e Git/GitHub"
