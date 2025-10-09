@@ -3,7 +3,7 @@
 Sou apaixonado por tecnologia e desenvolvimento de software.  
 Estou sempre em busca de aprender novas ferramentas, linguagens e boas práticas de programação.  
 Atualmente focado em aprimorar minhas habilidades em **JavaScript, Java, Node.js, React e desenvolvimento web**.  
-Também gosto de explorar conceitos de **automação, APIs, bancos de dados e versionamento com Git/GitHub**.
+Também gosto de explorar conceitos de **automação, APIs, bancos de dados e versionamento com Git/GitHub**..
 
 ---
 
