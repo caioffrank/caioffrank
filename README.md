@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Caio  
+#  Olá, eu sou o Caio  
 
 Sou apaixonado por tecnologia e desenvolvimento de software.  
 Estou sempre em busca de aprender novas ferramentas, linguagens e boas práticas de programação.  
